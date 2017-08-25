@@ -14,7 +14,7 @@
 /* Step-2 One option to get the container to fill the parent container is to use width: auto; */
 
 .profile-image-container {
-	width: 100%;
+	width: auto;
 	height: 100%;
 	margin-bottom: 0;
     background: #96F0F2;
@@ -23,7 +23,7 @@
 /* Step-2 One option to get the container to fill the parent container is to use width: auto; */
 
 .profile-links-container {
-	width: 100%;
+	width: auto;
 	height: 300px;
     background: #12F3F7;
 }
